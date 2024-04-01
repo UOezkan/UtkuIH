@@ -1,0 +1,2 @@
+I realized last year that I can swim” >> about.txt
+echo I realized last year that I can swim”
